@@ -210,6 +210,7 @@ print(str13.rstrip())
 # m：可选参数，表示占有宽度。
 # .n：可选参数，表示小数点后保留的位数。
 # 格式化字符：用于指定类型。
+
 # 格式字符	说明
 # %s	    字符串（采用str()显示）
 # %c	    单个字符
@@ -241,6 +242,7 @@ print('your name is %s, your age is %s, your gender is %s' % (name, age, gender)
 # width：可选参数，用于指定所占宽度。
 # .precision：可选参数，用于指定保留的小数位数。
 # type：可选参数，用于指定类型。
+
 # 格式字符	说明
 # S	        对字符串类型格式化
 # D	        十进制整数
