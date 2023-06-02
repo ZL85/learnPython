@@ -39,7 +39,7 @@ CREATE TABLE books (
 cursor.execute(sql)
 # 关闭数据库连接
 db.close()
-# ![](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//20230602175026.png)
+![](https://cdn.jsdelivr.net/gh/ZL85/ImageBed@main//20230602175026.png)
 
 # MySQL数据表的操作主要包括数据的增删改查
 # 在向books图书表中插入图书数据时，可以使用excute()方法添加一条记录， 也可以使用executemany() 方法批量添加多条记录
